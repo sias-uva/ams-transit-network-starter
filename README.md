@@ -17,7 +17,7 @@ Some examples:
 - a_hh: total number of households.
 - p_hh_lkk: percentage of household with low income 
 - p_hh_li: percentage of households with the lowest 20% income.
-- a_w_all: nr of people with western migration background/local.
+- a_w_all: nr of people with western migration background.
 - a_nw_all: nr of people with non-western migration background.
 
 ![amsterdam transit network image](https://github.com/dimichai/ams-transit-network-starter/blob/main/amsterdam_transit_network.png)
